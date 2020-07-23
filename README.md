@@ -1,4 +1,23 @@
-### Hi there 👋
+# Hi there 👋
+
+I'm Jonathan, and I'm a software engineering student at the University of Waterloo. I love building awesome things with tech! Glad you came to visit.
+
+I'm currently looking for an internship starting January 2021. Always down to chat ☕
+
+## 🔭 Current work
+- Founding [Trofi](https://www.trofi.app/) @ [Mozilla](https://builders.mozilla.community/alumni.html), a digital platform that brings produce distributors to the 21st century ($1M val) 🚀
+- Transforming your chromebook into a supercomputer as a fullstack dev @ [Fractal](https://fractalcomputers.com/) 💻
+- Bringing the fun back to fortune mining @ [Myriade](https://myriade.io) ⛏️
+
+## 💬 Ask me about ...
+- Competing at 40+ hackathons 👨🏽‍💻
+- My favourite ARCT piano pieces 🎹
+- How I grow succulents for friends 🌵
+- Building a development drone 🛩️
+
+## 📫 Reach me
+I'm always looking to meet new people, share ideas, and make friends!
+[twitter](https://twitter.com/JonathanXu20) | [linkedin](https://www.linkedin.com/in/jonathanxu01) | [email](contact@jonathanxu.com)
 
 <!--
 **JonathanXu1/JonathanXu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
