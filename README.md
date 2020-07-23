@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Jonathan, and I'm a software engineering student at the University of Waterloo. I love building awesome things with tech! Glad you came to visit.
+I'm Jonathan, and I'm a software engineering student at the [University of Waterloo](https://github.com/uWaterloo). I love building awesome things with tech! Glad you came to visit.
 
 I'm currently looking for an internship starting January 2021. Always down to chat ☕
 
@@ -17,6 +17,7 @@ I'm currently looking for an internship starting January 2021. Always down to ch
 
 ## 📫 Reach me
 I'm always looking to meet new people, share ideas, and make friends!
+
 [twitter](https://twitter.com/JonathanXu20) | [linkedin](https://www.linkedin.com/in/jonathanxu01) | [email](contact@jonathanxu.com)
 
 <!--
