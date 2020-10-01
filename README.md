@@ -18,7 +18,7 @@ I'm currently looking for an internship starting January 2021. Always down to ch
 ## 📫 Reach me
 I'm always looking to meet new people, share ideas, and make friends!
 
-[twitter](https://twitter.com/JonathanXu20) | [linkedin](https://www.linkedin.com/in/jonathanxu01) | [email](contact@jonathanxu.com)
+[twitter](https://twitter.com/_JonathanXu) | [linkedin](https://www.linkedin.com/in/jonathanxu01) | [email](contact@jonathanxu.com)
 
 <!--
 **JonathanXu1/JonathanXu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
