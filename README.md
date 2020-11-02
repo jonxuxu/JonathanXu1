@@ -6,6 +6,7 @@ I'm currently looking for an internship starting January 2021. Always down to ch
 
 ## 🔭 Current work
 - Founding [Trofi](https://www.trofi.app/) @ [Mozilla](https://builders.mozilla.community/alumni.html), a digital platform that brings produce distributors to the 21st century ($1M val) 🚀
+- Making AI make music that makes us happy through [Noisy](https://noisy.live) 🎵
 - Transforming your chromebook into a supercomputer as a fullstack dev @ [Fractal](https://www.tryfractal.com/) 💻
 - Bringing the fun back to fortune mining @ [Myriade](https://myriade.io) ⛏️
 
