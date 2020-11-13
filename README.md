@@ -14,7 +14,7 @@ I'm currently looking for an internship starting January 2021. Always down to ch
 - Competing at [40+ hackathons](https://devpost.com/JonathanXu) 👨🏽‍💻
 - My favourite ARCT piano pieces 🎹
 - How I grow succulents for friends 🌵
-- Building a development drone 🛩️
+- Building a [drone](https://www.hackster.io/jonathan-xu/brett-the-fire-mapping-drone-94fc1c) 🛩️
 
 ## 📫 Reach me
 I'm always looking to meet new people, share ideas, and make friends!
