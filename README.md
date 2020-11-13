@@ -11,7 +11,7 @@ I'm currently looking for an internship starting January 2021. Always down to ch
 - Bringing the fun back to fortune mining @ [Myriade](https://myriade.io) ⛏️
 
 ## 💬 Ask me about ...
-- Competing at 40+ hackathons 👨🏽‍💻
+- Competing at [40+ hackathons](https://devpost.com/JonathanXu) 👨🏽‍💻
 - My favourite ARCT piano pieces 🎹
 - How I grow succulents for friends 🌵
 - Building a development drone 🛩️
