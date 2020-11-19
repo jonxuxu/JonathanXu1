@@ -1,14 +1,12 @@
 # Hi there 👋
 
-I'm Jonathan, and I'm a software engineering student at the [University of Waterloo](https://github.com/uWaterloo). I love building awesome things with tech! Glad you came to visit.
-
-I'm currently looking for an internship starting January 2021. Always down to chat ☕
+I'm Jonathan, and I'm a software engineering student at the [University of Waterloo](https://github.com/uWaterloo). I love building awesome things with tech! Glad you came to visit. I'm currently looking for an internship starting January 2021. Always down to chat ☕
 
 ## 🔭 Current work
-- Founding [Trofi](https://www.trofi.app/) @ [Mozilla](https://builders.mozilla.community/alumni.html), a digital platform that brings produce distributors to the 21st century ($1M val) 🚀
 - Making AI make music that makes us happy through [Noisy](https://noisy.live) 🎵
-- Transforming your chromebook into a supercomputer as a fullstack dev @ [Fractal](https://www.tryfractal.com/) 💻
-- Bringing the fun back to fortune mining @ [Myriade](https://myriade.io) ⛏️
+- Founding [Trofi](https://www.trofi.app/) @ [Mozilla](https://builders.mozilla.community/alumni.html), to bring produce distributors to the 21st century ($1M val) 🚀
+- Upgrading your computer as fullstack dev @ [Fractal](https://www.tryfractal.com/) 💻
+- Making fortune mining accessible @ [Myriade](https://myriade.io) ⛏️
 
 ## 💬 Ask me about ...
 - Competing at [40+ hackathons](https://devpost.com/JonathanXu) 👨🏽‍💻
@@ -17,8 +15,6 @@ I'm currently looking for an internship starting January 2021. Always down to ch
 - Building a [drone](https://www.hackster.io/jonathan-xu/brett-the-fire-mapping-drone-94fc1c) 🛩️
 
 ## 📫 Reach me
-I'm always looking to meet new people, share ideas, and make friends!
-
 [twitter](https://twitter.com/_JonathanXu) | [linkedin](https://www.linkedin.com/in/jonathanxu01) | [email](contact@jonathanxu.com)
 
 <!--
