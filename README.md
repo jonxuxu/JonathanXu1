@@ -1,12 +1,8 @@
 # Hi there 👋
 
-I'm Jonathan, and I'm a software engineering student at the [University of Waterloo](https://github.com/uWaterloo). I love building awesome things with tech! Glad you came to visit. I'm currently looking for an internship starting January 2021. Always down to chat ☕
+Glad you came to visit. I'm Jonathan, and I'm a software engineering student at the University of Waterloo. I love building unique things with tech. Always down to chat ☕
 
-## 🔭 Current work
-- Making AI make music that makes us happy through [Noisy](https://noisy.live) 🎵
-- Founding [Trofi](https://www.trofi.app/) @ [Mozilla](https://builders.mozilla.community/alumni.html), to bring produce distributors to the 21st century ($1M val) 🚀
-- Upgrading your computer as fullstack dev @ [Fractal](https://www.tryfractal.com/) 💻
-- Making fortune mining accessible @ [Myriade](https://myriade.io) ⛏️
+https://jonathanxu.com
 
 ## 💬 Ask me about ...
 - Competing at [40+ hackathons](https://devpost.com/JonathanXu) 👨🏽‍💻
