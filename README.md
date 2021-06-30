@@ -12,7 +12,7 @@ https://jonathanxu.com
 - Building a [drone](https://www.hackster.io/jonathan-xu/brett-the-fire-mapping-drone-94fc1c) 🛩️
 
 ## 📫 Reach me
-[twitter](https://twitter.com/jonxuxu) | [linkedin](https://www.linkedin.com/in/jonathanxu01) | [email](contact@jonathanxu.com)
+[twitter](https://twitter.com/jonxuxu) | [email](contact@jonathanxu.com)
 
 <!--
 **JonathanXu1/JonathanXu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
