@@ -1,5 +1,7 @@
-# hi there, I'm Jonathan 👋
+thank you for stopping by.
 
-Glad you came to visit! I'm interested in hardware-software symbiosis, useful blockchain, and startups with a soul. Right now, I'm working on a stealth startup. I'm currently in Toronto, studying Software Engineering at uWaterloo(?).
+i hope you may find some peace and rest in my small corner of the internet.
 
-Learn more about me on my website: https://jonathanxu.com
+
+
+https://jonathanxu.com
